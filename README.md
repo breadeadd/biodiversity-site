@@ -1,6 +1,6 @@
 # 🌿 **Biodiversity Awareness Site**
 
-A visually engaging and interactive educational website that highlights the global issue of biodiversity loss. Developed as a school project, this site aims to inform users about the causes and consequences of biodiversity decline, propose actionable solutions, and showcase endangered species from different regions around the world.
+A visually engaging and interactive educational website that highlights the global issue of biodiversity loss. Developed as a school project, this site aims to inform users about the causes and consequences of biodiversity decline, propose actionable solutions, and showcase endangered species from different environments around the world.
 
 ---
 
@@ -28,6 +28,12 @@ A visually engaging and interactive educational website that highlights the glob
 
 ---
 
+## 🎥 Preview
+Click image for preview video:
+### [![Watch Demo](images/general/biodiversity_preview.png)](https://youtu.be/BiUvxkGO8Dc)
+
+---
+
 ### 🛠️ Tech Stack
 
 HTML – for page structure
@@ -48,4 +54,4 @@ Open index.html in your browser
 
 ## 📚 Credits
 
-Made for a school project — all sources and images credited in-site.
+All sources and images credited in-site.
